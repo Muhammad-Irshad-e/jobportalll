@@ -5,210 +5,239 @@
       "title": "Senior Front-End Developer",
       "type": "Full-Time",
       "location": "New York, NY",
-      "description": "Join our team as a Senior Front-End Developer in the heart of New York City. We are looking for an experienced individual with a passion for cutting-edge technologies and a track record of delivering high-quality web applications.",
+      "description": "We are looking for a talented and experienced Senior Front-End Developer to join our dynamic team. As a Senior Front-End Developer, you'll lead the development of web-based applications and collaborate closely with designers, product managers, and other developers to bring innovative features to life. You will help shape the architecture of our front-end codebase and ensure that our applications are optimized, user-friendly, and scalable.",
+     "qualificataion":"The ideal Senior Front-End Developer should have 5+ years of experience with HTML5, CSS3, JavaScript (ES6+), and modern frameworks like React, Vue.js, or Angular. They should be skilled in responsive design, API integration, Git, and Webpack, with experience mentoring junior developers and working in Agile environments.",
       "salary": "$100K - $120K",
       "company": {
+        "logo":"",
         "name": "Tech Innovations Inc",
-        "description": "Tech Innovations Inc is a leading technology company specializing in software development and digital solutions. Our team is dedicated to pushing the boundaries of innovation to deliver exceptional products and services.",
+        "description": "Tech Innovations Inc. is a forward-thinking, fast-growing tech company based in the heart of New York City. We specialize in delivering cutting-edge software solutions to a global clientele, helping businesses of all sizes harness the power of technology to innovate and grow. Our team is made up of passionate individuals who thrive in a collaborative, dynamic environment, always pushing the boundaries of what's possible.",
         "contactEmail": "contact@techinnovations.com",
         "contactPhone": "555-123-4567"
-      }
+      },
     },
     {
       "id": "2",
       "title": "UI/UX Designer",
-      "type": "Full-Time",
+      "type": "Part-Time",
       "location": "San Francisco, CA",
-      "description": "Exciting opportunity for a UI/UX Designer to join our dynamic team in San Francisco. We are seeking a creative individual with a keen eye for design and a passion for creating intuitive user interfaces.",
+      "description": "A UI/UX Designer is responsible for creating visually appealing and user-friendly interfaces for websites and applications. They focus on understanding user needs, designing intuitive layouts, and enhancing the overall user experience. By combining design principles with user research, they ensure that digital products are both functional and aesthetically pleasing, prioritizing usability and accessibility.",
+      "qualification":"A UI/UX Designer should have experience in UI/UX design, proficiency with design tools like Sketch, Figma, or Adobe XD, and a solid understanding of user research, wireframing, and prototyping. Strong visual design skills, an eye for detail, and knowledge of responsive design principles are essential. A background in human-centered design and familiarity with HTML/CSS is a plus.",
       "salary": "$90K - $110K",
       "company": {
+         "logo":"",
         "name": "Design Solutions Co",
-        "description": "Design Solutions Co is a design agency specializing in user experience design and branding. We are committed to creating visually stunning and user-friendly designs that captivate audiences.",
+        "description": "Design Solutions Co. is a creative agency specializing in providing innovative design solutions that enhance user experiences and drive business success. We focus on crafting visually engaging, intuitive, and functional designs for web, mobile, and digital platforms. Our team of talented designers, developers, and blending cutting-edge technology with artistic flair to deliver exceptional results.",
         "contactEmail": "contact@designsolutions.com",
         "contactPhone": "555-987-6543"
-      }
+      },
     },
     {
       "id": "3",
       "title": "Full Stack Developer",
       "type": "Full-Time",
       "location": "Austin, TX",
-      "description": "Join our team as a Full Stack Developer and work on exciting projects in the heart of Austin. We are seeking a versatile individual with experience in both front-end and back-end development.",
+      "description": "A Full Stack Developer is a versatile software engineer skilled in both front-end and back-end development. They design and implement the entire technology stack, from creating user-friendly interfaces with HTML, CSS, and JavaScript, to building server-side logic, databases, and APIs.",
+      "qualification":"A Full Stack Developer is a versatile software engineer skilled in both front-end and back-end development. They design and implement the entire technology stack, from creating user-friendly interfaces with HTML, CSS, and JavaScript, to building server-side logic, databases, and APIs.",
       "salary": "$80K - $100K",
       "company": {
+        "logo":"",
         "name": "CodeCrafters LLC",
-        "description": "CodeCrafters LLC is a software development company specializing in custom web and mobile applications. Our team is passionate about coding and dedicated to delivering top-notch solutions for our clients.",
-        "contactEmail": "contact@codecrafters.com",
+        "description": "CodeCrafters LLC is a dynamic software development company specializing in delivering innovative, high-quality solutions for businesses of all sizes. We focus on creating custom software applications, web solutions, and mobile apps that drive growth and streamline operations. ",
         "contactPhone": "555-234-5678"
-      }
+      },
     },
     {
       "id": "4",
       "title": "Backend Developer",
       "type": "Full-Time",
       "location": "Seattle, WA",
-      "description": "Exciting opportunity for a Backend Developer to join our innovative team in Seattle. We are looking for a skilled individual with experience in server-side development and database management.",
+      "description": "A Back-End Developer is responsible for building and maintaining the server-side logic, databases, and APIs that power web applications. They focus on ensuring the functionality, performance, and scalability of the application behind the scenes. Back-End Developers work with server-side languages like Node.js, Java, or Python, and integration of front-end systems with back-end services.",
+      "qualification":"A Back-End Developer should have proficiency in server-side languages such as Node.js, Java, Python, or Ruby. They should be skilled in database management (SQL/NoSQL), API development (RESTful or GraphQL), and cloud services (e.g., AWS, Azure). Experience with version control tools like Git, knowledge of server architecture.",
       "salary": "$90K - $110K",
       "company": {
+         "logo":"",
         "name": "Data Dynamics Inc",
-        "description": "Data Dynamics Inc is a data management company specializing in data analytics and business intelligence solutions. Our team is dedicated to helping businesses harness the power of data to drive growth and success.",
+        "description": "Data Dynamics Inc. is a leading technology company specializing in data management, analytics, and cloud solutions. We help businesses harness the power of their data to drive better decision-making, optimize operations, and achieve sustainable growth. ",
         "contactEmail": "contact@datadynamics.com",
         "contactPhone": "555-345-6789"
-      }
+      },
     },
     {
       "id": "5",
       "title": "Mobile App Developer",
       "type": "Full-Time",
       "location": "Los Angeles, CA",
-      "description": "Join our team as a Mobile App Developer and work on cutting-edge mobile applications in sunny Los Angeles. We are seeking a talented individual with a passion for mobile development and a knack for creating seamless user experiences.",
+      "description": "A Mobile App Developer specializes in creating, testing, and maintaining applications for mobile devices, such as smartphones and tablets. They work with platforms like iOS and Android, using programming languages such as Swift, Kotlin, or React Native.",
+      "qualification":"A Mobile App Developer should have proficiency in Swift (iOS), Kotlin (Android), or React Native (cross-platform), along with strong knowledge of mobile app development frameworks and UI/UX principles. Experience with API integration, version control (Git), and cloud services is important.",
       "salary": "$80K - $100K",
       "company": {
+          "logo":"",
         "name": "AppWorks Technologies",
-        "description": "AppWorks Technologies is a mobile app development company specializing in iOS and Android applications. Our team is committed to delivering innovative and user-friendly apps that exceed client expectations.",
+        "description": "AppWorks Technologies is an innovative technology company specializing in mobile and web application development. We focus on delivering cutting-edge solutions tailored to meet the unique needs of businesses, enhancing user experiences and driving digital transformation. With expertise in iOS, Android, scalable applications that empower organizations to achieve their goals and stay competitive in the digital age.",
         "contactEmail": "contact@appworks.com",
         "contactPhone": "555-456-7890"
-      }
+      },
     },
     {
       "id": "6",
       "title": "Data Scientist",
       "type": "Full-Time",
       "location": "Chicago, IL",
-      "description": "Exciting opportunity for a Data Scientist to join our team in Chicago. We are looking for a highly analytical individual with expertise in data analysis and machine learning algorithms.",
+      "description": "A Data Scientist analyzes and interprets complex data to help organizations make data-driven decisions. They use statistical methods, machine learning algorithms, and data visualization tools to extract insights from large datasets. Data scientists work with programming languages like Python or R, and  solve business problems using data.",
+      "qualification":"A Data Scientist should have a strong background in statistics, mathematics, and computer science. Proficiency in programming languages such as Python or R, and experience with data manipulation libraries (e.g., Pandas, NumPy) and machine learning frameworks (e.g., TensorFlow, scikit-learn) are essential. ",
       "salary": "$100K - $120K",
       "company": {
+        "logo":"",
         "name": "DataInsights Corp",
-        "description": "DataInsights Corp is a data analytics company specializing in predictive modeling and data-driven insights. Our team is dedicated to helping businesses leverage data to make informed decisions and drive growth.",
+        "description": "DataInsights Corp. is a leading data analytics company that helps organizations transform raw data into actionable insights. We specialize in delivering advanced data solutions, predictive analytics, and business intelligence tools to drive smarter decision-making. Our team of experts leverages cutting-edge technologies stay ahead in a competitive market.",
         "contactEmail": "contact@datainsights.com",
         "contactPhone": "555-567-8901"
-      }
+      },
     },
     {
       "id": "7",
       "title": "Software Engineer",
-      "type": "Full-Time",
+      "type": "Part-Time",
       "location": "Denver, CO",
-      "description": "Join our team as a Software Engineer and work on exciting projects in the Mile High City. We are seeking a talented individual with a passion for coding and a desire to make a positive impact.",
+      "description": "A Software Engineer designs, develops, and maintains software applications and systems. They apply engineering principles to write clean, efficient code and work with various programming languages, frameworks, and tools. Software engineers collaborate with cross-functional teams to solve complex problems, improve system performance, and ensure the scalability and security of applications.",
+      "qualification":"A Software Engineer should have proficiency in programming languages such as Java, C++, Python, or JavaScript. A strong understanding of software development principles, algorithms, and data structures is essential. Experience with version control (Git), databases, and web frameworks is important. ",
       "salary": "$90K - $110K",
       "company": {
+        "logo":"",
         "name": "TechSolutions Ltd",
-        "description": "TechSolutions Ltd is a technology company specializing in software development and IT consulting. Our team is committed to delivering innovative solutions that address the unique needs of our clients.",
+        "description": "TechSolutions Ltd. is a technology-driven company specializing in delivering innovative IT solutions that help businesses optimize their digital transformation. From custom software development and cloud services to IT consulting and system integrations, we provide cutting-edge solutions that drive efficiency, scalability, and growth. ",
         "contactEmail": "contact@techsolutions.com",
         "contactPhone": "555-678-9012"
-      }
+      },
     },
     {
       "id": "8",
       "title": "Web Developer",
-      "type": "Full-Time",
+      "type": "Part-Time",
       "location": "Portland, OR",
-      "description": "Exciting opportunity for a Web Developer to join our team in Portland. We are seeking a creative individual with a passion for web development and a keen eye for design.",
+      "description": "A Web Developer is responsible for designing, building, and maintaining websites and web applications. They work with front-end technologies like HTML, CSS, and JavaScript, as well as back-end programming languages such as PHP, Node.js, or Ruby. ",
+      "qualification":"A Web Developer should have proficiency in HTML, CSS, and JavaScript, with experience in front-end frameworks like React, Vue.js, or Angular. For back-end development, knowledge of languages such as PHP, Node.js, or Ruby is essential. Experience with databases (SQL/NoSQL), version control (Git), and responsive design is important.",
       "salary": "$80K - $100K",
       "company": {
+        "logo":"",
         "name": "WebWorks Solutions",
-        "description": "WebWorks Solutions is a web development agency specializing in custom website design and development. Our team is dedicated to creating visually stunning and user-friendly websites that drive results.",
+        "description": "WebWorks Solutions is a dynamic web development company that specializes in creating innovative and user-friendly websites and web applications. We offer a range of services, including custom web design, e-commerce solutions, and content management systems (CMS), aimed at helping businesses enhance their online presence.",
         "contactEmail": "contact@webworks.com",
         "contactPhone": "555-789-0123"
-      }
+      },
     },
     {
       "id": "9",
       "title": "Front-End Developer",
-      "type": "Full-Time",
+      "type": "Part-Time",
       "location": "Boston, MA",
-      "description": "Join our team as a Front-End Developer and work on exciting projects in historic Boston. We are seeking a talented individual with a passion for front-end development and a strong attention to detail.",
+      "description": "A Front-End Developer is responsible for building the user interface and visual elements of a website or application that users interact with. They use technologies like HTML, CSS, and JavaScript, along with frameworks like React or Angular, to create responsive and engaging designs.",
+      "qualification":"A Front-End Developer should have proficiency in HTML, CSS, and JavaScript (ES6+), with experience using front-end frameworks like React, Vue.js, or Angular. Knowledge of responsive design, cross-browser compatibility, and version control (Git) is essential. ",
       "salary": "$90K - $110K",
       "company": {
+        "logo":"",
         "name": "FrontEnd Solutions",
-        "description": "FrontEnd Solutions is a software development company specializing in front-end technologies and user interface design. Our team is committed to delivering high-quality solutions that exceed client expectations.",
+        "description": "FrontEnd Solutions is a leading web development company specializing in creating seamless and visually appealing user interfaces for websites and applications. Our team of expert front-end developers uses the latest technologies, including HTML, CSS, JavaScript, and frameworks like React and Angular, to craft responsive, user-friendly digital experiences.",
         "contactEmail": "contact@frontend.com",
         "contactPhone": "555-890-1234"
-      }
+      },
     },
     {
       "id": "10",
       "title": "Product Manager",
       "type": "Full-Time",
       "location": "Miami, FL",
-      "description": "Exciting opportunity for a Product Manager to join our team in sunny Miami. We are seeking a strategic thinker with a passion for product development and a track record of delivering successful products to market.",
+      "description": "A Product Manager is responsible for overseeing the development and lifecycle of a product, from concept to launch. They work closely with cross-functional teams, including design, engineering, and marketing, to define product vision, strategy, and roadmap. Product Managers prioritize features, gather customer feedback, and resources to deliver successful outcomes.",
+      "qualification":"A Product Manager should have a strong understanding of product development processes and experience in project management. A background in business, engineering, or marketing is typically required, along with experience in Agile methodologies. Strong communication, leadership, and problem-solving skills are essential. ",
       "salary": "$100K - $120K",
       "company": {
+        "logo":"",
         "name": "ProductWorks Inc",
-        "description": "ProductWorks Inc is a product development company specializing in product management and innovation consulting. Our team is dedicated to helping businesses bring new products to market and drive growth.",
+        "description": "ProductWorks Inc. is an innovative company specializing in developing and managing products that drive business growth and enhance customer satisfaction. We offer a range of services, from product strategy and design to development and launch, combining market insights with cutting-edge technology to deliver products that meet customer needs and exceed expectations.",
         "contactEmail": "contact@productworks.com",
         "contactPhone": "555-901-2345"
-      }
+      },
     },
     {
       "id": "11",
       "title": "DevOps Engineer",
       "type": "Full-Time",
       "location": "Houston, TX",
-      "description": "Join our team as a DevOps Engineer and work on cutting-edge infrastructure projects in Houston. We are seeking a talented individual with experience in cloud computing and automation.",
+      "description": "A DevOps Engineer automates and streamlines software development and deployment by bridging the gap between development and operations teams.  They manage infrastructure, ensure system reliability, and improve collaboration between teams.  Their focus is on efficiency, automation, and continuous delivery of software. ",
+      "qualification":"A DevOps Engineer typically holds a Bachelor's degree in Computer Science or a related field.  They possess strong skills in programming, scripting, and system administration.  Experience with cloud platforms, automation tools, and containerization is also highly valued. ",
       "salary": "$90K - $110K",
       "company": {
+        "logo":"",
         "name": "CloudWorks Technologies",
-        "description": "CloudWorks Technologies is a cloud computing company specializing in infrastructure management and automation. Our team is committed to helping businesses leverage the power of the cloud to drive innovation and efficiency.",
+        "description": "CloudWorks Technologies is a company that specializes in helping businesses with their cloud computing needs. They offer a range of services, including cloud migration, cloud management, and cloud security. Essentially, they help companies move their operations to the cloud and ensure everything runs smoothly and securely.",
         "contactEmail": "contact@cloudworks.com",
         "contactPhone": "555-012-3456"
-      }
+      },
     },
     {
       "id": "12",
       "title": "Software Architect",
       "type": "Full-Time",
       "location": "Dallas, TX",
-      "description": "Exciting opportunity for a Software Architect to join our team in Dallas. We are seeking a visionary leader with a passion for software design and a track record of architecting scalable and robust systems.",
+      "description": "A Software Architect is a senior-level software engineer responsible for the overall design and structure of a software system. They make high-level decisions about technology choices, architecture patterns, and how different components of the system will interact.They ensure the system meets its functional and non-functional requirements, such as performance, scalability, and security.",
+      "qualification":"A Software Architect typically needs a Bachelor's or Master's degree in Computer Science or a related field.  Extensive experience in software development, often 10+ years, is crucial, along with a deep understanding of architectural patterns, design principles, and various technologies.",
       "salary": "$110K - $130K",
       "company": {
+        "logo":"",
         "name": "Architect Solutions Inc",
-        "description": "Architect Solutions Inc is a software consultancy specializing in software architecture and design. Our team is dedicated to helping businesses build scalable and future-proof software solutions.",
+        "description": "Architect Solutions Inc. likely provides IT consulting and solutions, helping businesses with their technology needs.  They may specialize in areas like software development, cloud computing, or cybersecurity.  Alternatively, depending on the specific company, they could be an architectural design firm focused on buildings. ",
         "contactEmail": "contact@architectsolutions.com",
         "contactPhone": "555-123-4567"
-      }
+      },
     },
     {
       "id": "13",
       "title": "Quality Assurance Engineer",
       "type": "Full-Time",
       "location": "Philadelphia, PA",
-      "description": "Join our team as a Quality Assurance Engineer and help ensure the quality and reliability of our software products. We are seeking a detail-oriented individual with a passion for testing and problem-solving.",
+      "description": "A Quality Assurance Engineer (QA Engineer) is responsible for testing software and identifying any defects or issues before it's released. They design and execute test plans, analyze results, and work with developers to fix bugs, ensuring the software meets quality standards and user expectations. ",
+      "qualification":"A Quality Assurance Engineer typically needs a Bachelor's degree in Computer Science or a related field.  Strong analytical and problem-solving skills are essential, along with a good understanding of software testing methodologies. ",
       "salary": "$80K - $100K",
       "company": {
+        "logo":"",
         "name": "QAWorks Technologies",
-        "description": "QAWorks Technologies is a software testing company specializing in quality assurance and test automation. Our team is committed to delivering high-quality testing solutions that help businesses achieve their goals.",
+        "description": "QAWorks Technologies is a company that specializes in software quality assurance and testing services.They help businesses ensure their software is high-quality and free of defects by providing various testing solutions, including functional testing, performance testing, and automation testing.",
         "contactEmail": "contact@qaworks.com",
         "contactPhone": "555-234-5678"
-      }
+      },
     },
     {
       "id": "14",
       "title": "Database Administrator",
-      "type": "Full-Time",
+      "type": "Part-Time",
       "location": "San Diego, CA",
-      "description": "Exciting opportunity for a Database Administrator to join our team in San Diego. We are seeking a skilled individual with experience in database management and optimization.",
+      "description": "A Database Administrator (DBA) is responsible for the performance, integrity, and security of an organization's databases. They manage and maintain databases, ensuring data is available, accurate, and secure.  This includes tasks like installation, configuration, backup and recovery, performance tuning, and user access management.",
+      "qualifiacation":"A Database Administrator typically needs a Bachelor's degree in Computer Science or a related field.  Experience with database management systems (DBMS) like SQL Server, Oracle, or MySQL is essential.  Strong SQL skills, knowledge of database design, and understanding of operating systems are also crucial.",
       "salary": "$90K - $110K",
       "company": {
+        "logo":"",
         "name": "DataWorks Inc",
-        "description": "DataWorks Inc is a data management company specializing in database administration and optimization. Our team is dedicated to helping businesses leverage data to drive growth and success.",
+        "description": "DataWorks can refer to several different companies. One DataWorks, owned by Alibaba Cloud, is a big data platform offering data warehousing, integration, and analytics tools.  Another Dataworks specializes in e-commerce solutions, helping businesses use data to improve online performance.  ",
         "contactEmail": "contact@dataworks.com",
         "contactPhone": "555-345-6789"
-      }
+      },
     },
     {
       "id": "15",
       "title": "Systems Analyst",
       "type": "Full-Time",
       "location": "Las Vegas, NV",
-      "description": "Join our team as a Systems Analyst and help design and implement efficient IT systems. We are seeking a detail-oriented individual with a strong analytical mindset.",
+      "description": "A Systems Analyst analyzes an organization's computer systems and processes to identify areas for improvement. They bridge the gap between business needs and IT solutions, designing new systems or modifying existing ones to enhance efficiency and productivity.  They gather requirements, create specifications, and work with developers to implement the changes.",
+      "qualification":"A Systems Analyst typically needs a Bachelor's degree in Computer Science, Information Systems, or a related field.  Strong analytical, problem-solving, and communication skills are essential.  Experience with business process modeling, requirements gathering, and software development methodologies is highly valued.",
       "salary": "$80K - $100K",
       "company": {
+        "logo":"",
         "name": "SysWorks Solutions",
-        "description": "SysWorks Solutions is an IT consulting company specializing in system analysis and implementation. Our team is committed to delivering innovative solutions that drive business success.",
+        "description": "SysWorks Solutions offers IT services and solutions to businesses. They likely specialize in areas like systems integration, custom software development, or IT consulting.  Their services may include network management, cloud solutions, or cybersecurity.  They aim to improve business efficiency through technology.",
         "contactEmail": "contact@sysworks.com",
         "contactPhone": "555-456-7890"
-      }
+      },
     },
     {
       "id": "16",
