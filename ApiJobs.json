@@ -215,210 +215,240 @@
       "title": "Cybersecurity Analyst",
       "type": "Full-Time",
       "location": "Orlando, FL",
-      "description": "Exciting opportunity for a Cybersecurity Analyst to join our team in Orlando. We are seeking a skilled individual with expertise in cybersecurity and threat detection.",
+      "description": "Exciting opportunity for a Cybersecurity Analyst to join our team in Orlando. We are seeking a skilled individual with expertise in cybersecurity and threat detection. The ideal candidate will have experience with risk assessment, vulnerability management, and incident response, ensuring the security and integrity of our systems.",
+      "qualification":"The ideal Cybersecurity Analyst should have a degree in Cybersecurity, Information Technology, or a related field, with hands-on experience in threat detection and security protocols. Proficiency in security tools, risk management, and incident response, along with strong analytical and problem-solving skills, is essential.",
       "salary": "$90K - $110K",
       "company": {
+         "logo":"",
         "name": "SecureWorks Inc",
-        "description": "SecureWorks Inc is a cybersecurity company specializing in threat detection and incident response. Our team is dedicated to helping businesses protect their assets and mitigate risks.",
+        "description": "SecureWorks Inc is a cybersecurity company specializing in threat detection and incident response. Our team is dedicated to helping businesses protect their assets and mitigate risks. We provide proactive security solutions and expert guidance to ensure our clients' systems remain secure and resilient against emerging threats.",
         "contactEmail": "contact@secureworks.com",
         "contactPhone": "555-567-8901"
-      }
+      },
     },
     {
       "id": "17",
       "title": "Network Engineer",
       "type": "Full-Time",
       "location": "Detroit, MI",
-      "description": "Join our team as a Network Engineer and help design and maintain our network infrastructure. We are seeking a talented individual with experience in network design and troubleshooting.",
+      "description": "Join our team as a Network Engineer and help design and maintain our network infrastructure. We are seeking a talented individual with experience in network design and troubleshooting. The ideal candidate will have a strong understanding of networking protocols, security, and the ability to optimize network performance for efficiency and reliability.",
+       "qualification":"The ideal Network Engineer should have a degree in Information Technology, Network Engineering, or a related field, with hands-on experience in network design, configuration, and troubleshooting. Proficiency in networking protocols, security, and network performance optimization, along with strong problem-solving skills, is essential.",
       "salary": "$80K - $100K",
       "company": {
+         "logo":"",
         "name": "NetWorks Technologies",
-        "description": "NetWorks Technologies is a network infrastructure company specializing in network design and optimization. Our team is committed to delivering reliable and scalable network solutions.",
+        "description": "NetWorks Technologies is a network infrastructure company specializing in network design and optimization. Our team is committed to delivering reliable and scalable network solutions. We focus on providing cutting-edge technologies that enhance network performance, security, and efficiency for businesses of all sizes.",
         "contactEmail": "contact@networks.com",
         "contactPhone": "555-678-9012"
-      }
+      },
     },
     {
       "id": "18",
       "title": "IT Project Manager",
       "type": "Full-Time",
       "location": "Minneapolis, MN",
-      "description": "Exciting opportunity for an IT Project Manager to join our team in Minneapolis. We are seeking a strategic leader with a track record of successfully managing IT projects from initiation to completion.",
+      "description": "Exciting opportunity for an IT Project Manager to join our team in Minneapolis. We are seeking a strategic leader with a track record of successfully managing IT projects from initiation to completion. The ideal candidate will have strong organizational skills, excellent communication abilities, and experience in delivering projects on time and within budget.",
+       "qualification":"The ideal IT Project Manager should have a degree in Information Technology, Project Management, or a related field, with proven experience in leading IT projects. Strong skills in project planning, budgeting, risk management, and familiarity with project management tools such as Agile or Scrum are essential.",
       "salary": "$100K - $120K",
       "company": {
+         "logo":"",
         "name": "ProjectWorks Inc",
-        "description": "ProjectWorks Inc is a project management company specializing in IT projects and consulting. Our team is dedicated to delivering successful outcomes for our clients.",
+        "description": "ProjectWorks Inc is a project management company specializing in IT projects and consulting. Our team is dedicated to delivering successful outcomes for our clients. We focus on providing tailored solutions, ensuring efficient project execution, and driving innovation to meet the unique needs of each client.",
         "contactEmail": "contact@projectworks.com",
         "contactPhone": "555-789-0123"
-      }
+      },
     },
     {
       "id": "19",
       "title": "Technical Support Specialist",
       "type": "Full-Time",
       "location": "Charlotte, NC",
-      "description": "Join our team as a Technical Support Specialist and help provide technical assistance to our customers. We are seeking a customer-focused individual with strong problem-solving skills.",
+      "description": "Join our team as a Technical Support Specialist and help provide technical assistance to our customers. We are seeking a customer-focused individual with strong problem-solving skills. The ideal candidate will have excellent communication abilities, a proactive approach to resolving issues, and a passion for delivering exceptional customer service.",
+       "qualification":"The ideal Technical Support Specialist should have a degree in Information Technology, Computer Science, or a related field, with hands-on experience in troubleshooting hardware and software issues. Strong communication skills, a customer-oriented mindset, and proficiency in support tools and technologies are essential.",
       "salary": "$70K - $90K",
       "company": {
+         "logo":"",
         "name": "TechSupport Solutions",
-        "description": "TechSupport Solutions is a technical support company specializing in providing assistance to customers with technical issues. Our team is committed to delivering exceptional customer service.",
+        "description": "TechSupport Solutions is a technical support company specializing in providing assistance to customers with technical issues. Our team is committed to delivering exceptional customer service. We focus on offering timely solutions, expert guidance, and ensuring a seamless support experience for all our clients.",
         "contactEmail": "contact@techsupport.com",
         "contactPhone": "555-890-1234"
-      }
+      },
     },
     {
       "id": "20",
       "title": "IT Consultant",
       "type": "Full-Time",
       "location": "Atlanta, GA",
-      "description": "Exciting opportunity for an IT Consultant to join our team in Atlanta. We are seeking a versatile individual with expertise in various IT domains and a passion for helping businesses succeed.",
+      "description": "Exciting opportunity for an IT Consultant to join our team in Atlanta. We are seeking a versatile individual with expertise in various IT domains and a passion for helping businesses succeed. The ideal candidate will have strong problem-solving abilities, excellent communication skills, and a proven track record of delivering strategic IT solutions that drive business growth.",
+       "qualification":"The ideal IT Consultant should have a degree in Information Technology, Computer Science, or a related field, with experience in a wide range of IT domains. Strong analytical, problem-solving, and communication skills, along with the ability to implement strategic IT solutions, are essential.",
       "salary": "$90K - $110K",
       "company": {
+         "logo":"",
         "name": "ITConsulting Inc",
-        "description": "ITConsulting Inc is an IT consulting company specializing in providing strategic advice and technical expertise to businesses. Our team is dedicated to delivering customized solutions that meet client needs.",
+        "description": "ITConsulting Inc is an IT consulting company specializing in providing strategic advice and technical expertise to businesses. Our team is dedicated to delivering customized solutions that meet client needs. We focus on optimizing business processes, improving efficiency, and driving innovation to help our clients achieve long-term success.",
         "contactEmail": "contact@itconsulting.com",
         "contactPhone": "555-901-2345"
-      }
+      },
     },
     {
       "id": "21",
       "title": "Cloud Engineer",
       "type": "Full-Time",
       "location": "Nashville, TN",
-      "description": "Join our team as a Cloud Engineer and work on exciting cloud projects in Nashville. We are seeking a skilled individual with experience in cloud infrastructure and deployment.",
+      "description": "Join our team as a Cloud Engineer and work on exciting cloud projects in Nashville. We are seeking a skilled individual with experience in cloud infrastructure and deployment. The ideal candidate will have a strong understanding of cloud platforms, automation tools, and the ability to optimize and scale cloud environments for diverse business needs.",
+      "qualification":"The ideal Cloud Engineer should have a degree in Computer Science, Information Technology, or a related field, with hands-on experience in cloud platforms such as AWS, Azure, or Google Cloud. Proficiency in cloud infrastructure, automation tools, and deployment practices, along with strong problem-solving skills, is essential.",
       "salary": "$90K - $110K",
       "company": {
+          "logo":"",
         "name": "CloudWorks Technologies",
-        "description": "CloudWorks Technologies is a cloud computing company specializing in infrastructure management and automation. Our team is committed to helping businesses leverage the power of the cloud to drive innovation and efficiency.",
+        "description": "CloudWorks Technologies is a cloud computing company specializing in infrastructure management and automation. Our team is committed to helping businesses leverage the power of the cloud to drive innovation and efficiency. We provide scalable, secure, and cost-effective solutions that optimize cloud environments for maximum performance and growth.",
         "contactEmail": "contact@cloudworks.com",
         "contactPhone": "555-012-3456"
-      }
+      },
     },
     {
       "id": "22",
       "title": "Front-End Developer",
-      "type": "Full-Time",
+      "type": "part-Time",
       "location": "Phoenix, AZ",
-      "description": "Exciting opportunity for a Front-End Developer to join our team in Phoenix. We are seeking a talented individual with a passion for front-end development and a desire to create engaging user experiences.",
+      "description": "Exciting opportunity for a Front-End Developer to join our team in Phoenix. We are seeking a talented individual with a passion for front-end development and a desire to create engaging user experiences. The ideal candidate will have a strong understanding of web technologies, responsive design, and the ability to collaborate effectively with cross-functional teams.",
+      "qualification":"The ideal Front-End Developer should have a degree in Computer Science, Web Development, or a related field, with experience in HTML, CSS, JavaScript, and modern front-end frameworks like React or Angular. Strong skills in responsive design, version control, and collaboration tools are essential for delivering high-quality user interfaces.",
       "salary": "$80K - $100K",
       "company": {
+          "logo":"",
         "name": "FrontEnd Solutions",
-        "description": "FrontEnd Solutions is a software development company specializing in front-end technologies and user interface design. Our team is committed to delivering high-quality solutions that exceed client expectations.",
+        "description": "FrontEnd Solutions is a software development company specializing in front-end technologies and user interface design. Our team is committed to delivering high-quality solutions that exceed client expectations. We focus on creating visually appealing, user-friendly interfaces that drive engagement and ensure an exceptional user experience.",
         "contactEmail": "contact@frontend.com",
         "contactPhone": "555-234-5678"
-      }
+      },
     },
     {
       "id": "23",
       "title": "Machine Learning Engineer",
       "type": "Full-Time",
       "location": "San Antonio, TX",
-      "description": "Join our team as a Machine Learning Engineer and work on cutting-edge AI projects in San Antonio. We are seeking a talented individual with expertise in machine learning algorithms and data analysis.",
+      "description": "Join our team as a Machine Learning Engineer and work on cutting-edge AI projects in San Antonio. We are seeking a talented individual with expertise in machine learning algorithms and data analysis. The ideal candidate will have strong programming skills, experience with data modeling, and a passion for advancing AI technologies to solve real-world problems.",
+      "qualification":"The ideal Machine Learning Engineer should have a degree in Computer Science, Data Science, or a related field, with hands-on experience in machine learning algorithms and data analysis. Proficiency in programming languages such as Python, R, or Java, along with a strong understanding of data modeling, statistical analysis, and AI techniques, is essential.",
       "salary": "$100K - $120K",
       "company": {
+          "logo":"",
         "name": "AIWorks Technologies",
-        "description": "AIWorks Technologies is an AI company specializing in machine learning and data science. Our team is dedicated to pushing the boundaries of AI to solve real-world problems.",
+        "description": "AIWorks Technologies is an AI company specializing in machine learning and data science. Our team is dedicated to pushing the boundaries of AI to solve real-world problems. We focus on creating innovative solutions that drive advancements across industries, delivering impactful results for our clients.",
         "contactEmail": "contact@aiworks.com",
         "contactPhone": "555-345-6789"
-      }
+      },
     },
     {
       "id": "24",
       "title": "Software Developer",
-      "type": "Full-Time",
+      "type": "part-Time",
       "location": "Salt Lake City, UT",
-      "description": "Exciting opportunity for a Software Developer to join our team in Salt Lake City. We are seeking a versatile individual with experience in both front-end and back-end development.",
+      "description": "Exciting opportunity for a Software Developer to join our team in Salt Lake City. We are seeking a versatile individual with experience in both front-end and back-end development. The ideal candidate will have strong problem-solving skills, a passion for coding, and the ability to work collaboratively in a fast-paced, dynamic environment.",
+      "qualification":"The ideal Software Developer should have a degree in Computer Science, Software Engineering, or a related field, with experience in both front-end and back-end development. Proficiency in programming languages such as JavaScript, Python, Java, or C++, along with strong problem-solving and collaboration skills, is essential.",
       "salary": "$90K - $110K",
       "company": {
+          "logo":"",
         "name": "TechSolutions Ltd",
-        "description": "TechSolutions Ltd is a technology company specializing in software development and IT consulting. Our team is committed to delivering innovative solutions that address the unique needs of our clients.",
+        "description": "TechSolutions Ltd is a technology company specializing in software development and IT consulting. Our team is committed to delivering innovative solutions that address the unique needs of our clients. We focus on creating scalable, efficient, and cutting-edge technologies that drive business growth and success.",
         "contactEmail": "contact@techsolutions.com",
         "contactPhone": "555-456-7890"
-      }
+      },
     },
     {
       "id": "25",
       "title": "Systems Administrator",
       "type": "Full-Time",
       "location": "Tampa, FL",
-      "description": "Join our team as a Systems Administrator and help manage our IT infrastructure in sunny Tampa. We are seeking a skilled individual with experience in system administration and network security.",
+      "description": "Join our team as a Systems Administrator and help manage our IT infrastructure in sunny Tampa. We are seeking a skilled individual with experience in system administration and network security. The ideal candidate will have a strong troubleshooting ability, a proactive approach to system maintenance, and excellent communication skills to collaborate effectively with our team.",
+      "qualification":"The ideal Systems Administrator should have a degree in Information Technology, Computer Science, or a related field, with hands-on experience in managing IT systems and network security. Strong knowledge of operating systems, server management, and troubleshooting, along with proficiency in security protocols and tools, is essential.",
       "salary": "$80K - $100K",
       "company": {
+          "logo":"",
         "name": "SysAdmin Solutions",
-        "description": "SysAdmin Solutions is an IT consulting company specializing in system administration and network security. Our team is dedicated to helping businesses protect their assets and mitigate risks.",
+        "description": "SysAdmin Solutions is an IT consulting company specializing in system administration and network security. Our team is dedicated to helping businesses protect their assets and mitigate risks. We focus on providing proactive solutions that ensure the reliability, security, and efficiency of our clients' IT infrastructure.",
         "contactEmail": "contact@sysadmin.com",
         "contactPhone": "555-567-8901"
-      }
+      },
     },
     {
       "id": "26",
       "title": "UI Designer",
       "type": "Full-Time",
       "location": "Charlotte, NC",
-      "description": "Exciting opportunity for a UI Designer to join our team in Charlotte. We are seeking a creative individual with a passion for user interface design and a desire to create intuitive and visually appealing designs.",
+      "description": "Exciting opportunity for a UI Designer to join our team in Charlotte. We are seeking a creative individual with a passion for user interface design and a desire to create intuitive and visually appealing designs. The ideal candidate will have a keen eye for detail, stay updated on design trends, and work collaboratively with cross-functional teams to bring concepts to life.",
+      "qualification":"The ideal UI Designer should have a degree in Graphic Design, Interaction Design, or a related field, with experience in creating visually appealing user interfaces. Proficiency in design tools such as Figma, Adobe XD, or Sketch, along with a strong understanding of design principles and user-centered design, is essential.",
       "salary": "$80K - $100K",
-      "company": {
+      "company": { 
+        "logo":"",
         "name": "DesignWorks Inc",
-        "description": "DesignWorks Inc is a design agency specializing in user experience design and branding. Our team is committed to creating visually stunning and user-friendly designs that captivate audiences.",
+        "description": "DesignWorks Inc is a design agency specializing in user experience design and branding. Our team is committed to creating visually stunning and user-friendly designs that captivate audiences. We collaborate closely with clients to deliver innovative solutions that enhance brand identity and drive customer engagement.",
         "contactEmail": "contact@designworks.com",
         "contactPhone": "555-789-0123"
-      }
+      },
     },
     {
       "id": "27",
       "title": "Network Administrator",
       "type": "Full-Time",
       "location": "Denver, CO",
-      "description": "Join our team as a Network Administrator and help manage our network infrastructure in Denver. We are seeking a skilled individual with experience in network administration and troubleshooting.",
+      "description": "Join our team as a Network Administrator and help manage our network infrastructure in Denver. We are seeking a skilled individual with experience in network administration and troubleshooting. The ideal candidate will have strong problem-solving abilities, excellent communication skills, and a proactive approach to maintaining a secure and efficient network.",
+      "qualification":"The ideal Network Administrator should have a degree in Information Technology, Computer Science, or a related field, along with hands-on experience in managing network infrastructure and troubleshooting. Strong knowledge of networking protocols, firewalls, VPNs, and network security is essential.",
       "salary": "$80K - $100K",
       "company": {
+         "logo":"",
         "name": "NetAdmin Solutions",
-        "description": "NetAdmin Solutions is an IT consulting company specializing in network administration and support. Our team is dedicated to providing reliable and secure network solutions.",
+        "description": "NetAdmin Solutions is an IT consulting company specializing in network administration and support. Our team is dedicated to providing reliable and secure network solutions. We prioritize exceptional customer service and work closely with clients to ensure their network infrastructure runs smoothly and efficiently.",
         "contactEmail": "contact@netadmin.com",
         "contactPhone": "555-901-2345"
-      }
+      },
     },
     {
       "id": "28",
       "title": "Software Engineer",
       "type": "Full-Time",
       "location": "Dallas, TX",
-      "description": "Exciting opportunity for a Software Engineer to join our team in Dallas. We are seeking a talented individual with a passion for coding and a desire to create innovative software solutions.",
+      "description": "Exciting opportunity for a Software Engineer to join our team in Dallas. We are seeking a talented individual with a passion for coding and a desire to create innovative software solutions. The ideal candidate will have strong problem-solving skills and the ability to work collaboratively in a dynamic, fast-paced environment.",
+      "qualification":"The ideal Software Engineer should have a degree in Computer Science, Software Engineering, or a related field, with experience in programming languages such as Java, Python, or C++. Strong problem-solving skills, knowledge of software development methodologies, and the ability to work in a collaborative environment are essential.",
       "salary": "$90K - $110K",
       "company": {
+         "logo":"",
         "name": "CodeCrafters LLC",
-        "description": "CodeCrafters LLC is a software development company specializing in custom web and mobile applications. Our team is passionate about coding and dedicated to delivering top-notch solutions for our clients.",
+        "description": "CodeCrafters LLC is a software development company specializing in custom web and mobile applications. Our team is passionate about coding and dedicated to delivering top-notch solutions for our clients. We focus on innovation, scalability, and creating user-centric products that drive success and satisfaction.",
         "contactEmail": "contact@codecrafters.com",
         "contactPhone": "555-012-3456"
-      }
+      },
     },
     {
       "id": "29",
       "title": "IT Support Specialist",
       "type": "Full-Time",
       "location": "Miami, FL",
-      "description": "Join our team as an IT Support Specialist and help provide technical assistance to our employees. We are seeking a customer-focused individual with strong troubleshooting skills.",
+      "description": "Join our team as an IT Support Specialist and help provide technical assistance to our employees. We are seeking a customer-focused individual with strong troubleshooting skills. The ideal candidate will be proactive, have excellent communication abilities, and be eager to solve technical challenges efficiently.",
+      "qualification":"The ideal IT Support Specialist should have a degree in Computer Science, Information Technology, or a related field, along with hands-on experience in troubleshooting hardware and software issues. Strong communication skills, problem-solving abilities, and proficiency in operating systems and networking are essential.",
       "salary": "$70K - $90K",
       "company": {
+        "logo":"",
         "name": "TechSupport Solutions",
-        "description": "TechSupport Solutions is a technical support company specializing in providing assistance to customers with technical issues. Our team is committed to delivering exceptional customer service.",
+        "description": "TechSupport Solutions is a technical support company specializing in providing assistance to customers with technical issues. Our team is committed to delivering exceptional customer service. We prioritize quick resolution, clear communication, and building long-lasting relationships with our clients.",
         "contactEmail": "contact@techsupport.com",
         "contactPhone": "555-234-5678"
-      }
+      },
     },
     {
       "id": "30",
       "title": "UI/UX Designer",
       "type": "Full-Time",
       "location": "Los Angeles, CA",
-      "description": "Exciting opportunity for a UI/UX Designer to join our team in Los Angeles. We are seeking a creative individual with a passion for user experience design and a desire to create seamless and intuitive designs.",
+      "description": "A UI/UX Designer creates visually appealing, user-friendly digital products by conducting user research, designing interfaces, and refining designs through testing and feedback. They collaborate with developers to ensure accurate implementation and continuously iterate to improve user experience and functionality.",
+      "qualification":"We are seeking a skilled UI/UX Designer with expertise in design tools like Figma, Sketch, and Adobe XD, and experience in wireframing, prototyping, and user research. Strong problem-solving skills, collaboration abilities, and a user-centered design approach are essential.",
       "salary": "$80K - $100K",
       "company": {
+        "logo":"",
         "name": "UXWorks Inc",
-        "description": "UXWorks Inc is a design agency specializing in user experience design and usability testing. Our team is committed to creating innovative and user-friendly designs that enhance the user experience.",
+        "description": "UXWorks Inc is a design agency specializing in user experience design and usability testing. Our team is committed to creating innovative and user-friendly designs that enhance the user experience. We focus on delivering tailored solutions that drive engagement, satisfaction, and business success for our clients.",
         "contactEmail": "contact@uxworks.com",
         "contactPhone": "555-345-6789"
-      }
-    }
+      },
+    },
   ]
 }
