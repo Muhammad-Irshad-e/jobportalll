@@ -6,10 +6,10 @@
       "type": "Full-Time",
       "location": "New York, NY",
       "description": "We are looking for a talented and experienced Senior Front-End Developer to join our dynamic team. As a Senior Front-End Developer, you'll lead the development of web-based applications and collaborate closely with designers, product managers, and other developers to bring innovative features to life. You will help shape the architecture of our front-end codebase and ensure that our applications are optimized, user-friendly, and scalable.",
-     "qualificataion":"The ideal Senior Front-End Developer should have 5+ years of experience with HTML5, CSS3, JavaScript (ES6+), and modern frameworks like React, Vue.js, or Angular. They should be skilled in responsive design, API integration, Git, and Webpack, with experience mentoring junior developers and working in Agile environments.",
+      "qualification":"The ideal Senior Front-End Developer should have 5+ years of experience with HTML5, CSS3, JavaScript (ES6+), and modern frameworks like React, Vue.js, or Angular. They should be skilled in responsive design, API integration, Git, and Webpack, with experience mentoring junior developers and working in Agile environments.",
       "salary": "$100K - $120K",
       "company": {
-        "logo":"",
+        "logo":"https://img.logo.dev/tech-innovations.io",
         "name": "Tech Innovations Inc",
         "description": "Tech Innovations Inc. is a forward-thinking, fast-growing tech company based in the heart of New York City. We specialize in delivering cutting-edge software solutions to a global clientele, helping businesses of all sizes harness the power of technology to innovate and grow. Our team is made up of passionate individuals who thrive in a collaborative, dynamic environment, always pushing the boundaries of what's possible.",
         "contactEmail": "contact@techinnovations.com",
@@ -25,7 +25,7 @@
       "qualification":"A UI/UX Designer should have experience in UI/UX design, proficiency with design tools like Sketch, Figma, or Adobe XD, and a solid understanding of user research, wireframing, and prototyping. Strong visual design skills, an eye for detail, and knowledge of responsive design principles are essential. A background in human-centered design and familiarity with HTML/CSS is a plus.",
       "salary": "$90K - $110K",
       "company": {
-         "logo":"",
+        "logo":"https://img.logo.dev/design2solutions.com",
         "name": "Design Solutions Co",
         "description": "Design Solutions Co. is a creative agency specializing in providing innovative design solutions that enhance user experiences and drive business success. We focus on crafting visually engaging, intuitive, and functional designs for web, mobile, and digital platforms. Our team of talented designers, developers, and blending cutting-edge technology with artistic flair to deliver exceptional results.",
         "contactEmail": "contact@designsolutions.com",
@@ -41,7 +41,7 @@
       "qualification":"A Full Stack Developer is a versatile software engineer skilled in both front-end and back-end development. They design and implement the entire technology stack, from creating user-friendly interfaces with HTML, CSS, and JavaScript, to building server-side logic, databases, and APIs.",
       "salary": "$80K - $100K",
       "company": {
-        "logo":"",
+        "logo":"https://img.logo.dev/codecrafters.io",
         "name": "CodeCrafters LLC",
         "description": "CodeCrafters LLC is a dynamic software development company specializing in delivering innovative, high-quality solutions for businesses of all sizes. We focus on creating custom software applications, web solutions, and mobile apps that drive growth and streamline operations. ",
         "contactPhone": "555-234-5678"
@@ -56,7 +56,7 @@
       "qualification":"A Back-End Developer should have proficiency in server-side languages such as Node.js, Java, Python, or Ruby. They should be skilled in database management (SQL/NoSQL), API development (RESTful or GraphQL), and cloud services (e.g., AWS, Azure). Experience with version control tools like Git, knowledge of server architecture.",
       "salary": "$90K - $110K",
       "company": {
-         "logo":"",
+        "logo":"https://img.logo.dev/datadynamicsinc.com",
         "name": "Data Dynamics Inc",
         "description": "Data Dynamics Inc. is a leading technology company specializing in data management, analytics, and cloud solutions. We help businesses harness the power of their data to drive better decision-making, optimize operations, and achieve sustainable growth. ",
         "contactEmail": "contact@datadynamics.com",
@@ -72,7 +72,7 @@
       "qualification":"A Mobile App Developer should have proficiency in Swift (iOS), Kotlin (Android), or React Native (cross-platform), along with strong knowledge of mobile app development frameworks and UI/UX principles. Experience with API integration, version control (Git), and cloud services is important.",
       "salary": "$80K - $100K",
       "company": {
-          "logo":"",
+        "logo":"https://img.logo.dev/appworks.tw",
         "name": "AppWorks Technologies",
         "description": "AppWorks Technologies is an innovative technology company specializing in mobile and web application development. We focus on delivering cutting-edge solutions tailored to meet the unique needs of businesses, enhancing user experiences and driving digital transformation. With expertise in iOS, Android, scalable applications that empower organizations to achieve their goals and stay competitive in the digital age.",
         "contactEmail": "contact@appworks.com",
@@ -88,7 +88,7 @@
       "qualification":"A Data Scientist should have a strong background in statistics, mathematics, and computer science. Proficiency in programming languages such as Python or R, and experience with data manipulation libraries (e.g., Pandas, NumPy) and machine learning frameworks (e.g., TensorFlow, scikit-learn) are essential. ",
       "salary": "$100K - $120K",
       "company": {
-        "logo":"",
+        "logo":"https://img.logo.dev/data-insights.com",
         "name": "DataInsights Corp",
         "description": "DataInsights Corp. is a leading data analytics company that helps organizations transform raw data into actionable insights. We specialize in delivering advanced data solutions, predictive analytics, and business intelligence tools to drive smarter decision-making. Our team of experts leverages cutting-edge technologies stay ahead in a competitive market.",
         "contactEmail": "contact@datainsights.com",
@@ -104,7 +104,7 @@
       "qualification":"A Software Engineer should have proficiency in programming languages such as Java, C++, Python, or JavaScript. A strong understanding of software development principles, algorithms, and data structures is essential. Experience with version control (Git), databases, and web frameworks is important. ",
       "salary": "$90K - $110K",
       "company": {
-        "logo":"",
+        "logo":"https://img.logo.dev/t7s.co.uk",
         "name": "TechSolutions Ltd",
         "description": "TechSolutions Ltd. is a technology-driven company specializing in delivering innovative IT solutions that help businesses optimize their digital transformation. From custom software development and cloud services to IT consulting and system integrations, we provide cutting-edge solutions that drive efficiency, scalability, and growth. ",
         "contactEmail": "contact@techsolutions.com",
@@ -120,7 +120,7 @@
       "qualification":"A Web Developer should have proficiency in HTML, CSS, and JavaScript, with experience in front-end frameworks like React, Vue.js, or Angular. For back-end development, knowledge of languages such as PHP, Node.js, or Ruby is essential. Experience with databases (SQL/NoSQL), version control (Git), and responsive design is important.",
       "salary": "$80K - $100K",
       "company": {
-        "logo":"",
+        "logo":"https://img.logo.dev/webworks.com",
         "name": "WebWorks Solutions",
         "description": "WebWorks Solutions is a dynamic web development company that specializes in creating innovative and user-friendly websites and web applications. We offer a range of services, including custom web design, e-commerce solutions, and content management systems (CMS), aimed at helping businesses enhance their online presence.",
         "contactEmail": "contact@webworks.com",
@@ -136,7 +136,7 @@
       "qualification":"A Front-End Developer should have proficiency in HTML, CSS, and JavaScript (ES6+), with experience using front-end frameworks like React, Vue.js, or Angular. Knowledge of responsive design, cross-browser compatibility, and version control (Git) is essential. ",
       "salary": "$90K - $110K",
       "company": {
-        "logo":"",
+        "logo":"https://img.logo.dev/frontend.com",
         "name": "FrontEnd Solutions",
         "description": "FrontEnd Solutions is a leading web development company specializing in creating seamless and visually appealing user interfaces for websites and applications. Our team of expert front-end developers uses the latest technologies, including HTML, CSS, JavaScript, and frameworks like React and Angular, to craft responsive, user-friendly digital experiences.",
         "contactEmail": "contact@frontend.com",
@@ -152,7 +152,7 @@
       "qualification":"A Product Manager should have a strong understanding of product development processes and experience in project management. A background in business, engineering, or marketing is typically required, along with experience in Agile methodologies. Strong communication, leadership, and problem-solving skills are essential. ",
       "salary": "$100K - $120K",
       "company": {
-        "logo":"",
+        "logo":"https://img.logo.dev/productworks.com.au",
         "name": "ProductWorks Inc",
         "description": "ProductWorks Inc. is an innovative company specializing in developing and managing products that drive business growth and enhance customer satisfaction. We offer a range of services, from product strategy and design to development and launch, combining market insights with cutting-edge technology to deliver products that meet customer needs and exceed expectations.",
         "contactEmail": "contact@productworks.com",
@@ -168,7 +168,7 @@
       "qualification":"A DevOps Engineer typically holds a Bachelor's degree in Computer Science or a related field.  They possess strong skills in programming, scripting, and system administration.  Experience with cloud platforms, automation tools, and containerization is also highly valued. ",
       "salary": "$90K - $110K",
       "company": {
-        "logo":"",
+        "logo":"https://img.logo.dev/cloudwk.com",
         "name": "CloudWorks Technologies",
         "description": "CloudWorks Technologies is a company that specializes in helping businesses with their cloud computing needs. They offer a range of services, including cloud migration, cloud management, and cloud security. Essentially, they help companies move their operations to the cloud and ensure everything runs smoothly and securely.",
         "contactEmail": "contact@cloudworks.com",
@@ -184,7 +184,7 @@
       "qualification":"A Software Architect typically needs a Bachelor's or Master's degree in Computer Science or a related field.  Extensive experience in software development, often 10+ years, is crucial, along with a deep understanding of architectural patterns, design principles, and various technologies.",
       "salary": "$110K - $130K",
       "company": {
-        "logo":"",
+        "logo":"https://img.logo.dev/architecturalarts.com",
         "name": "Architect Solutions Inc",
         "description": "Architect Solutions Inc. likely provides IT consulting and solutions, helping businesses with their technology needs.  They may specialize in areas like software development, cloud computing, or cybersecurity.  Alternatively, depending on the specific company, they could be an architectural design firm focused on buildings. ",
         "contactEmail": "contact@architectsolutions.com",
@@ -200,7 +200,7 @@
       "qualification":"A Quality Assurance Engineer typically needs a Bachelor's degree in Computer Science or a related field.  Strong analytical and problem-solving skills are essential, along with a good understanding of software testing methodologies. ",
       "salary": "$80K - $100K",
       "company": {
-        "logo":"",
+        "logo":"https://img.logo.dev/qaworks.com",
         "name": "QAWorks Technologies",
         "description": "QAWorks Technologies is a company that specializes in software quality assurance and testing services.They help businesses ensure their software is high-quality and free of defects by providing various testing solutions, including functional testing, performance testing, and automation testing.",
         "contactEmail": "contact@qaworks.com",
@@ -216,7 +216,7 @@
       "qualifiacation":"A Database Administrator typically needs a Bachelor's degree in Computer Science or a related field.  Experience with database management systems (DBMS) like SQL Server, Oracle, or MySQL is essential.  Strong SQL skills, knowledge of database design, and understanding of operating systems are also crucial.",
       "salary": "$90K - $110K",
       "company": {
-        "logo":"",
+        "logo":"https://img.logo.dev/dataworksinc.com",
         "name": "DataWorks Inc",
         "description": "DataWorks can refer to several different companies. One DataWorks, owned by Alibaba Cloud, is a big data platform offering data warehousing, integration, and analytics tools.  Another Dataworks specializes in e-commerce solutions, helping businesses use data to improve online performance.  ",
         "contactEmail": "contact@dataworks.com",
@@ -232,7 +232,7 @@
       "qualification":"A Systems Analyst typically needs a Bachelor's degree in Computer Science, Information Systems, or a related field.  Strong analytical, problem-solving, and communication skills are essential.  Experience with business process modeling, requirements gathering, and software development methodologies is highly valued.",
       "salary": "$80K - $100K",
       "company": {
-        "logo":"",
+        "logo":"https://img.logo.dev/sysworks.nl",
         "name": "SysWorks Solutions",
         "description": "SysWorks Solutions offers IT services and solutions to businesses. They likely specialize in areas like systems integration, custom software development, or IT consulting.  Their services may include network management, cloud solutions, or cybersecurity.  They aim to improve business efficiency through technology.",
         "contactEmail": "contact@sysworks.com",
@@ -248,7 +248,7 @@
       "qualification":"The ideal Cybersecurity Analyst should have a degree in Cybersecurity, Information Technology, or a related field, with hands-on experience in threat detection and security protocols. Proficiency in security tools, risk management, and incident response, along with strong analytical and problem-solving skills, is essential.",
       "salary": "$90K - $110K",
       "company": {
-         "logo":"",
+        "logo":"https://img.logo.dev/secureworks.com",
         "name": "SecureWorks Inc",
         "description": "SecureWorks Inc is a cybersecurity company specializing in threat detection and incident response. Our team is dedicated to helping businesses protect their assets and mitigate risks. We provide proactive security solutions and expert guidance to ensure our clients' systems remain secure and resilient against emerging threats.",
         "contactEmail": "contact@secureworks.com",
@@ -261,10 +261,10 @@
       "type": "Full-Time",
       "location": "Detroit, MI",
       "description": "Join our team as a Network Engineer and help design and maintain our network infrastructure. We are seeking a talented individual with experience in network design and troubleshooting. The ideal candidate will have a strong understanding of networking protocols, security, and the ability to optimize network performance for efficiency and reliability.",
-       "qualification":"The ideal Network Engineer should have a degree in Information Technology, Network Engineering, or a related field, with hands-on experience in network design, configuration, and troubleshooting. Proficiency in networking protocols, security, and network performance optimization, along with strong problem-solving skills, is essential.",
+      "qualification":"The ideal Network Engineer should have a degree in Information Technology, Network Engineering, or a related field, with hands-on experience in network design, configuration, and troubleshooting. Proficiency in networking protocols, security, and network performance optimization, along with strong problem-solving skills, is essential.",
       "salary": "$80K - $100K",
       "company": {
-         "logo":"",
+        "logo":"https://img.logo.dev/nsi1.com",
         "name": "NetWorks Technologies",
         "description": "NetWorks Technologies is a network infrastructure company specializing in network design and optimization. Our team is committed to delivering reliable and scalable network solutions. We focus on providing cutting-edge technologies that enhance network performance, security, and efficiency for businesses of all sizes.",
         "contactEmail": "contact@networks.com",
@@ -277,10 +277,10 @@
       "type": "Full-Time",
       "location": "Minneapolis, MN",
       "description": "Exciting opportunity for an IT Project Manager to join our team in Minneapolis. We are seeking a strategic leader with a track record of successfully managing IT projects from initiation to completion. The ideal candidate will have strong organizational skills, excellent communication abilities, and experience in delivering projects on time and within budget.",
-       "qualification":"The ideal IT Project Manager should have a degree in Information Technology, Project Management, or a related field, with proven experience in leading IT projects. Strong skills in project planning, budgeting, risk management, and familiarity with project management tools such as Agile or Scrum are essential.",
+      "qualification":"The ideal IT Project Manager should have a degree in Information Technology, Project Management, or a related field, with proven experience in leading IT projects. Strong skills in project planning, budgeting, risk management, and familiarity with project management tools such as Agile or Scrum are essential.",
       "salary": "$100K - $120K",
       "company": {
-         "logo":"",
+        "logo":"https://img.logo.dev/projectworks.co.za",
         "name": "ProjectWorks Inc",
         "description": "ProjectWorks Inc is a project management company specializing in IT projects and consulting. Our team is dedicated to delivering successful outcomes for our clients. We focus on providing tailored solutions, ensuring efficient project execution, and driving innovation to meet the unique needs of each client.",
         "contactEmail": "contact@projectworks.com",
@@ -293,10 +293,10 @@
       "type": "Full-Time",
       "location": "Charlotte, NC",
       "description": "Join our team as a Technical Support Specialist and help provide technical assistance to our customers. We are seeking a customer-focused individual with strong problem-solving skills. The ideal candidate will have excellent communication abilities, a proactive approach to resolving issues, and a passion for delivering exceptional customer service.",
-       "qualification":"The ideal Technical Support Specialist should have a degree in Information Technology, Computer Science, or a related field, with hands-on experience in troubleshooting hardware and software issues. Strong communication skills, a customer-oriented mindset, and proficiency in support tools and technologies are essential.",
+      "qualification":"The ideal Technical Support Specialist should have a degree in Information Technology, Computer Science, or a related field, with hands-on experience in troubleshooting hardware and software issues. Strong communication skills, a customer-oriented mindset, and proficiency in support tools and technologies are essential.",
       "salary": "$70K - $90K",
       "company": {
-         "logo":"",
+        "logo":"https://img.logo.dev/techsupport.ph",
         "name": "TechSupport Solutions",
         "description": "TechSupport Solutions is a technical support company specializing in providing assistance to customers with technical issues. Our team is committed to delivering exceptional customer service. We focus on offering timely solutions, expert guidance, and ensuring a seamless support experience for all our clients.",
         "contactEmail": "contact@techsupport.com",
@@ -309,10 +309,10 @@
       "type": "Full-Time",
       "location": "Atlanta, GA",
       "description": "Exciting opportunity for an IT Consultant to join our team in Atlanta. We are seeking a versatile individual with expertise in various IT domains and a passion for helping businesses succeed. The ideal candidate will have strong problem-solving abilities, excellent communication skills, and a proven track record of delivering strategic IT solutions that drive business growth.",
-       "qualification":"The ideal IT Consultant should have a degree in Information Technology, Computer Science, or a related field, with experience in a wide range of IT domains. Strong analytical, problem-solving, and communication skills, along with the ability to implement strategic IT solutions, are essential.",
+      "qualification":"The ideal IT Consultant should have a degree in Information Technology, Computer Science, or a related field, with experience in a wide range of IT domains. Strong analytical, problem-solving, and communication skills, along with the ability to implement strategic IT solutions, are essential.",
       "salary": "$90K - $110K",
       "company": {
-         "logo":"",
+        "logo":"https://img.logo.dev/itconsulting.net.br",
         "name": "ITConsulting Inc",
         "description": "ITConsulting Inc is an IT consulting company specializing in providing strategic advice and technical expertise to businesses. Our team is dedicated to delivering customized solutions that meet client needs. We focus on optimizing business processes, improving efficiency, and driving innovation to help our clients achieve long-term success.",
         "contactEmail": "contact@itconsulting.com",
@@ -328,7 +328,7 @@
       "qualification":"The ideal Cloud Engineer should have a degree in Computer Science, Information Technology, or a related field, with hands-on experience in cloud platforms such as AWS, Azure, or Google Cloud. Proficiency in cloud infrastructure, automation tools, and deployment practices, along with strong problem-solving skills, is essential.",
       "salary": "$90K - $110K",
       "company": {
-          "logo":"",
+        "logo":"https://img.logo.dev/cloudwk.com",
         "name": "CloudWorks Technologies",
         "description": "CloudWorks Technologies is a cloud computing company specializing in infrastructure management and automation. Our team is committed to helping businesses leverage the power of the cloud to drive innovation and efficiency. We provide scalable, secure, and cost-effective solutions that optimize cloud environments for maximum performance and growth.",
         "contactEmail": "contact@cloudworks.com",
@@ -344,7 +344,7 @@
       "qualification":"The ideal Front-End Developer should have a degree in Computer Science, Web Development, or a related field, with experience in HTML, CSS, JavaScript, and modern front-end frameworks like React or Angular. Strong skills in responsive design, version control, and collaboration tools are essential for delivering high-quality user interfaces.",
       "salary": "$80K - $100K",
       "company": {
-          "logo":"",
+        "logo":"https://img.logo.dev/frontend.com",
         "name": "FrontEnd Solutions",
         "description": "FrontEnd Solutions is a software development company specializing in front-end technologies and user interface design. Our team is committed to delivering high-quality solutions that exceed client expectations. We focus on creating visually appealing, user-friendly interfaces that drive engagement and ensure an exceptional user experience.",
         "contactEmail": "contact@frontend.com",
@@ -360,7 +360,7 @@
       "qualification":"The ideal Machine Learning Engineer should have a degree in Computer Science, Data Science, or a related field, with hands-on experience in machine learning algorithms and data analysis. Proficiency in programming languages such as Python, R, or Java, along with a strong understanding of data modeling, statistical analysis, and AI techniques, is essential.",
       "salary": "$100K - $120K",
       "company": {
-          "logo":"",
+        "logo":"https://img.logo.dev/aiworks.ai",
         "name": "AIWorks Technologies",
         "description": "AIWorks Technologies is an AI company specializing in machine learning and data science. Our team is dedicated to pushing the boundaries of AI to solve real-world problems. We focus on creating innovative solutions that drive advancements across industries, delivering impactful results for our clients.",
         "contactEmail": "contact@aiworks.com",
@@ -376,7 +376,7 @@
       "qualification":"The ideal Software Developer should have a degree in Computer Science, Software Engineering, or a related field, with experience in both front-end and back-end development. Proficiency in programming languages such as JavaScript, Python, Java, or C++, along with strong problem-solving and collaboration skills, is essential.",
       "salary": "$90K - $110K",
       "company": {
-          "logo":"",
+        "logo":"https://img.logo.dev/t7s.co.uk",
         "name": "TechSolutions Ltd",
         "description": "TechSolutions Ltd is a technology company specializing in software development and IT consulting. Our team is committed to delivering innovative solutions that address the unique needs of our clients. We focus on creating scalable, efficient, and cutting-edge technologies that drive business growth and success.",
         "contactEmail": "contact@techsolutions.com",
@@ -392,7 +392,7 @@
       "qualification":"The ideal Systems Administrator should have a degree in Information Technology, Computer Science, or a related field, with hands-on experience in managing IT systems and network security. Strong knowledge of operating systems, server management, and troubleshooting, along with proficiency in security protocols and tools, is essential.",
       "salary": "$80K - $100K",
       "company": {
-          "logo":"",
+        "logo":"https://img.logo.dev/sysadmin-cr.com",
         "name": "SysAdmin Solutions",
         "description": "SysAdmin Solutions is an IT consulting company specializing in system administration and network security. Our team is dedicated to helping businesses protect their assets and mitigate risks. We focus on providing proactive solutions that ensure the reliability, security, and efficiency of our clients' IT infrastructure.",
         "contactEmail": "contact@sysadmin.com",
@@ -408,7 +408,7 @@
       "qualification":"The ideal UI Designer should have a degree in Graphic Design, Interaction Design, or a related field, with experience in creating visually appealing user interfaces. Proficiency in design tools such as Figma, Adobe XD, or Sketch, along with a strong understanding of design principles and user-centered design, is essential.",
       "salary": "$80K - $100K",
       "company": { 
-        "logo":"",
+        "logo":"https://img.logo.dev/designworks.com.mx",
         "name": "DesignWorks Inc",
         "description": "DesignWorks Inc is a design agency specializing in user experience design and branding. Our team is committed to creating visually stunning and user-friendly designs that captivate audiences. We collaborate closely with clients to deliver innovative solutions that enhance brand identity and drive customer engagement.",
         "contactEmail": "contact@designworks.com",
@@ -424,7 +424,7 @@
       "qualification":"The ideal Network Administrator should have a degree in Information Technology, Computer Science, or a related field, along with hands-on experience in managing network infrastructure and troubleshooting. Strong knowledge of networking protocols, firewalls, VPNs, and network security is essential.",
       "salary": "$80K - $100K",
       "company": {
-         "logo":"",
+        "logo":"https://img.logo.dev/netadmin.marketing",
         "name": "NetAdmin Solutions",
         "description": "NetAdmin Solutions is an IT consulting company specializing in network administration and support. Our team is dedicated to providing reliable and secure network solutions. We prioritize exceptional customer service and work closely with clients to ensure their network infrastructure runs smoothly and efficiently.",
         "contactEmail": "contact@netadmin.com",
@@ -440,7 +440,7 @@
       "qualification":"The ideal Software Engineer should have a degree in Computer Science, Software Engineering, or a related field, with experience in programming languages such as Java, Python, or C++. Strong problem-solving skills, knowledge of software development methodologies, and the ability to work in a collaborative environment are essential.",
       "salary": "$90K - $110K",
       "company": {
-         "logo":"",
+        "logo":"https://img.logo.dev/codecrafters.io",
         "name": "CodeCrafters LLC",
         "description": "CodeCrafters LLC is a software development company specializing in custom web and mobile applications. Our team is passionate about coding and dedicated to delivering top-notch solutions for our clients. We focus on innovation, scalability, and creating user-centric products that drive success and satisfaction.",
         "contactEmail": "contact@codecrafters.com",
@@ -456,7 +456,7 @@
       "qualification":"The ideal IT Support Specialist should have a degree in Computer Science, Information Technology, or a related field, along with hands-on experience in troubleshooting hardware and software issues. Strong communication skills, problem-solving abilities, and proficiency in operating systems and networking are essential.",
       "salary": "$70K - $90K",
       "company": {
-        "logo":"",
+        "logo":"https://img.logo.dev/techsupport.ph",
         "name": "TechSupport Solutions",
         "description": "TechSupport Solutions is a technical support company specializing in providing assistance to customers with technical issues. Our team is committed to delivering exceptional customer service. We prioritize quick resolution, clear communication, and building long-lasting relationships with our clients.",
         "contactEmail": "contact@techsupport.com",
@@ -472,7 +472,7 @@
       "qualification":"We are seeking a skilled UI/UX Designer with expertise in design tools like Figma, Sketch, and Adobe XD, and experience in wireframing, prototyping, and user research. Strong problem-solving skills, collaboration abilities, and a user-centered design approach are essential.",
       "salary": "$80K - $100K",
       "company": {
-        "logo":"",
+        "logo":"https://img.logo.dev/uxcam.com",
         "name": "UXWorks Inc",
         "description": "UXWorks Inc is a design agency specializing in user experience design and usability testing. Our team is committed to creating innovative and user-friendly designs that enhance the user experience. We focus on delivering tailored solutions that drive engagement, satisfaction, and business success for our clients.",
         "contactEmail": "contact@uxworks.com",
